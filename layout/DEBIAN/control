@@ -1,0 +1,9 @@
+Package: com.rpetrich.ilockfix
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Fix iLock on iPad
+Name: iLockFix for iPad
+Depends: winterboard, gsc.wildcat
+Author: Ryan Petrich <rpetrich@gmail.com>
